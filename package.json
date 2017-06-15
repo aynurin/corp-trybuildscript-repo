@@ -1,6 +1,6 @@
 {
     "name": "corp-trybuildscript-repo",
-    "version": "0.0.47-dev.49",
+    "version": "0.0.51",
     "description": "Trying out the build script",
     "main": "index.js",
     "scripts": {
@@ -21,9 +21,9 @@
         "mocha": "^3.4.2"
     },
     "pone": {
-        "build": 49,
-        "commit": "bc5be65",
+        "build": 51,
+        "commit": "8712f6a",
         "repo": "git@github.com:aynurin/corp-trybuildscript-repo.git",
-        "branch": "mypr3"
+        "branch": "master"
     }
 }

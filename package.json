@@ -1,0 +1,23 @@
+{
+  "name": "corp-trybuildscript-repo",
+  "version": "0.0.1",
+  "description": "Trying out the build script",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aynurin/corp-trybuildscript-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aynurin/corp-trybuildscript-repo/issues"
+  },
+  "homepage": "https://github.com/aynurin/corp-trybuildscript-repo#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mocha": "^3.4.2"
+  }
+}
